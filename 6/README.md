@@ -1,5 +1,5 @@
 ## Client memerlukan autentikasi untuk melakukan pesanan
-![image](https://user-images.githubusercontent.com/26577058/232255368-eb6598f0-536d-47d2-a75b-58ddf932ebb6.png)
+Client tidak bisa melakukan pesanan jika belum login
 
 ## Page Register
 ![image](https://user-images.githubusercontent.com/26577058/232255403-663d2389-f71a-4063-bce9-b43fdff7c94a.png)
